@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Plans are worthless, planning is indispensable.
 Use the left arrow to go back!
